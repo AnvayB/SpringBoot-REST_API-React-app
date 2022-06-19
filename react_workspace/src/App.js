@@ -1,4 +1,3 @@
-import './App.css';
 import EmployeeComponent from './components/EmployeeComponent';
 
 function App() {
